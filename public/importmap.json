@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.4/lib/system/single-spa.min.js",
+    "@ksmf/root-config": "//localhost:9010/ksmf-root-config.js",
+    "@ksmf/ksmf-nav": "//localhost:9999/js/app.js",
+    "@ksmf/ksmf-orders": "//localhost:9011/js/app.js"
+  }
+}
